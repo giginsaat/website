@@ -1,7 +1,7 @@
 # Site settings
 title: Bulut Mekanik
 email: onur@bulutmekanik.com
-site.baseurl: website/
+site.baseurl: /website/
 site.url: bulutmekanik.github.io
 description: "Ankara Bulut Mekanik"
 
