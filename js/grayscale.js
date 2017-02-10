@@ -47,8 +47,7 @@ function init() {
         zoom: 16,
         // The latitude and longitude to center the map (always required)
         center: new google.maps.LatLng(39.96950792746027,32.74086125693134),
-
-        scrollwheel: true,
+        scrollwheel: false,
         draggable: true,
     };
 
