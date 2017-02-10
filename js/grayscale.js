@@ -66,7 +66,7 @@ function init() {
     var myLatLng = new google.maps.LatLng(39.96950792746027,32.74086125693134);
     var beachMarker = new google.maps.Marker({
         position: myLatLng,
-        map: map,
-        icon: image
+        map: map
+        //icon: image
     });
 }
