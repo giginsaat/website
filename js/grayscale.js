@@ -44,13 +44,12 @@ function init() {
     // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
     var mapOptions = {
         // How zoomed in you want the map to start at (always required)
-        zoom: 15,
-
+        zoom: 16,
         // The latitude and longitude to center the map (always required)
         center: new google.maps.LatLng(39.96950792746027,32.74086125693134),
 
         disableDefaultUI: false,
-        scrollwheel: false,
+        scrollwheel: true,
         draggable: true,
     };
 
@@ -67,6 +66,5 @@ function init() {
     var beachMarker = new google.maps.Marker({
         position: myLatLng,
         map: map
-        //icon: image
     });
 }
