@@ -4,6 +4,7 @@ email: galip@giginsaat.com
 baseurl: 
 url: www.giginsaat.com
 description: "Ankara GİG İnşaat"
+coordinates: 39.96950792746027,32.74086125693134
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
