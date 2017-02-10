@@ -48,7 +48,7 @@ function init() {
         // The latitude and longitude to center the map (always required)
         center: new google.maps.LatLng(39.96950792746027,32.74086125693134),
         scrollwheel: false,
-        draggable: true,
+        draggable: true
     };
 
     // Get the HTML DOM element that will contain your map 
