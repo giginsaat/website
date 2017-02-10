@@ -1,3 +1,3 @@
 # website
 
-https://bulutmekanik.github.io/website/
+https://giginsaat.github.io/website/
