@@ -266,9 +266,8 @@ a:focus {
 .products-section {
     width: 100%;
     padding: 50px 0;
-    color: #fff;
-    background: url(/img/products-bg.jpg) no-repeat center center scroll;
-    background-color: {{ site.color.primary-dark }};
+    color: #000;
+    background-color: #fff;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
