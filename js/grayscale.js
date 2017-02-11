@@ -57,4 +57,10 @@ function init() {
 
     // Create the Google Map using out element and options defined above
     var map = new google.maps.Map(mapElement, mapOptions);
+    
+    var myLatLng = new google.maps.LatLng(39.96950792746027,32.74086125693134);
+    var myMarker = new google.maps.Marker({
+        position: myLatLng,
+        map: map
+    });
 }
